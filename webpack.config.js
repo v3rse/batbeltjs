@@ -1,7 +1,12 @@
+var path = require("path");
 module.exports = {
-  entry: './src/main.js',
+  entry: {
+    main: './src/main.js',
+    test: './test/test.js'
+  },
   output: {
-    filename: './dist/batbelt.js'
+    path: path.join(__dirname,"dist"),
+    filename: 'batbelt.[name].js'
   },
   module: {
     preLoaders: [
