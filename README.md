@@ -20,8 +20,8 @@ Usage
 
 Todo
 --------
-- [ ] Setup dev environment(using webpack):
-  - [ ] Blog post
+- [x] Setup dev environment(using webpack):
+  - [x] [Blog post](http://blog.nanaadane.com/2016/05/25/batbeltjs-1-webpack/)
 - [ ] CSS manipulation
   - [ ] Write tests
   - [ ] Write code
