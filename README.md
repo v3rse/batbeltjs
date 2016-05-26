@@ -20,12 +20,12 @@ Usage
 
 Todo
 --------
-- [x] Setup dev environment(using webpack):
-  - [x] [Blog post](http://blog.nanaadane.com/2016/05/25/batbeltjs-1-webpack/)
-- [ ] CSS manipulation
-  - [ ] Write tests
-  - [ ] Write code
-  - [ ] Blog post
+- [x] ~~Setup dev environment(using webpack):~~
+  - [x] ~~[Blog post](http://blog.nanaadane.com/2016/05/25/batbeltjs-1-webpack/)~~
+- [x] ~~CSS manipulation~~
+  - [x] ~~Write tests~~
+  - [x] ~~Write code~~
+  - [x] ~~[Blog post](http://blog.nanaadane.com/2016/05/26/batbelt-2-css-manipulation/)~~
 - [ ] CSS class manipulation
   - [ ] Write tests
   - [ ] Write code
