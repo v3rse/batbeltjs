@@ -63,7 +63,16 @@ Contribute
 
 Test
 -------
-Not yet available.
+
+```sh
+#Change directory to the project directory
+cd batbeltjs
+
+#Run webpack
+webpack
+```
+
+Open `index.html` to view test results in your browser.
 
 
 -------
