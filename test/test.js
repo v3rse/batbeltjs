@@ -1,1 +1,2 @@
-console.log("Hello Tests!");
+//require the test files
+require('./css/css.js');

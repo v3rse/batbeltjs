@@ -12,15 +12,16 @@ module.exports = {
     preLoaders: [
       {
         test: /\.js$/,
-        exclude: /node_modules/,
+        exclude: [/node_modules/,/lib/],
         loader: 'jshint-loader'
       }
     ],
     loaders: [
+      {test:/\.css$/, loader:'style!css'},
       {
         test: /\.js$/,
         loader: 'babel-loader',
-        exclude: /node_modules/,
+        exclude: [/node_modules/,/lib/],
         query: {
           presets: ['es2015']
         }
