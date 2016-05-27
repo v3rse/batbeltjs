@@ -1,4 +1,4 @@
-
+var cssClass = require('../../src/css_class/css_class.js');
 describe('CssClassManipulation', function() {
   'use strict';
 
