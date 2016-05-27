@@ -27,8 +27,8 @@ Todo
   - [x] ~~Write code~~
   - [x] ~~[Blog post](http://blog.nanaadane.com/2016/05/26/batbelt-2-css-manipulation/)~~
 - [ ] CSS class manipulation
-  - [ ] Write tests
-  - [ ] Write code
+  - ~~[x] Write tests~~
+  - ~~[x] Write code~~
   - [ ] Blog post
 - [ ] DOM manipulation
   - [ ] Write tests
