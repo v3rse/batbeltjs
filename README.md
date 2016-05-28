@@ -32,7 +32,7 @@ Todo
   - [ ] Blog post
 - [ ] DOM manipulation
   - [x] ~~Write tests~~
-  - [ ] Write code
+  - [x] ~~Write code~~
   - [ ] Blog post
 - [ ] Ajax request function
   - [ ] Write tests

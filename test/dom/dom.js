@@ -1,4 +1,4 @@
-// var dom = require('../../src/dom/dom.js');
+var dom = require('../../src/dom/dom.js');
 describe('domManipulation', function() {
   'use strict';
 
