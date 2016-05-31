@@ -1,4 +1,4 @@
-// var ajax = require('./../src/ajax/ajax.js')
+var ajax = require('../../src/ajax/ajax.js');
 
 describe('AjaxRequest', function() {
   'use strict';
