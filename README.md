@@ -35,7 +35,7 @@ Todo
   - [x] ~~Write code~~
   - [ ] Blog post
 - [ ] Ajax request function
-  - [ ] Write tests
+  - [x] ~~Write tests~~
   - [ ] Write code
   - [ ] Blog post
 - [ ] Event Listeners
