@@ -29,7 +29,7 @@ Todo
 - [ ] CSS class manipulation
   - [x] ~~Write tests~~
   - [x] ~~Write code~~
-  - [ ] Blog post
+  - [x] ~~[Blog post](http://blog.nanaadane.com/2016/06/23/batbelt-3-css-class-manipulation/)~~
 - [ ] DOM manipulation
   - [x] ~~Write tests~~
   - [x] ~~Write code~~
